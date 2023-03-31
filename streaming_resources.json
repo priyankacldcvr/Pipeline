@@ -1,0 +1,5 @@
+{
+    "bucket_name" : "task1pcbuckets",
+    "file_name" : "WalmartStream.csv",
+    "log_file_name" : "log.txt"
+}
